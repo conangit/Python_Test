@@ -1,0 +1,1 @@
+print("hello","i am lihong","this is a python program")

@@ -1,0 +1,8 @@
+print(True)
+print(False)
+print("3 > 2:", 3 > 2)
+print("6 > 7:", 6 > 7)
+print("True and True:", True and True)
+print("True and False:", True and False)
+print("True or False:", True or False)
+print("not True:", not True)
